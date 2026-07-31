@@ -1,0 +1,15 @@
+{
+  "request_id": "tg-20260731-2004-7f31c9",
+  "type": "telegram_channels",
+  "created_at": "2026-07-31T20:04:00+08:00",
+  "channels": [
+    "tzkknb",
+    "Whitelist520",
+    "LinYuKernels"
+  ],
+  "limit": 5,
+  "response_path": "responses/tg-20260731-2004-7f31c9.json",
+  "requested_by": "chatgpt",
+  "force": true,
+  "note": "End-to-end webhook verification"
+}
