@@ -1,0 +1,61 @@
+{
+    "request_id": "tg-20260731-2014-9c2a71",
+    "type": "telegram_channels_result",
+    "success": false,
+    "source_commit": "1f49f45c5fe367e50eff28e0a845476cbf18570f",
+    "completed_at": "2026-07-31T20:14:47+08:00",
+    "requested_limit": 5,
+    "sync": {
+        "success": false,
+        "exit_code": 0,
+        "errors": {
+            "process": "Sync command did not return valid JSON"
+        }
+    },
+    "channels": {
+        "tzkknb": {
+            "success": false,
+            "status": 500,
+            "error": {
+                "success": false,
+                "error": "configuration_error",
+                "message": "TG_API_TOKEN must be at least 24 characters"
+            },
+            "sync": {
+                "success": false,
+                "error": "Sync command did not return valid JSON"
+            }
+        },
+        "Whitelist520": {
+            "success": false,
+            "status": 500,
+            "error": {
+                "success": false,
+                "error": "configuration_error",
+                "message": "TG_API_TOKEN must be at least 24 characters"
+            },
+            "sync": {
+                "success": false,
+                "error": "Sync command did not return valid JSON"
+            }
+        },
+        "LinYuKernels": {
+            "success": false,
+            "status": 500,
+            "error": {
+                "success": false,
+                "error": "configuration_error",
+                "message": "TG_API_TOKEN must be at least 24 characters"
+            },
+            "sync": {
+                "success": false,
+                "error": "Sync command did not return valid JSON"
+            }
+        }
+    },
+    "errors": {
+        "tzkknb": "TG_API_TOKEN must be at least 24 characters",
+        "Whitelist520": "TG_API_TOKEN must be at least 24 characters",
+        "LinYuKernels": "TG_API_TOKEN must be at least 24 characters"
+    }
+}
