@@ -1,0 +1,15 @@
+{
+  "request_id": "tg-20260731-2024-4f8a2d",
+  "type": "telegram_channels",
+  "created_at": "2026-07-31T20:24:00+08:00",
+  "channels": [
+    "tzkknb",
+    "Whitelist520",
+    "LinYuKernels"
+  ],
+  "limit": 5,
+  "response_path": "responses/tg-20260731-2024-4f8a2d.json",
+  "requested_by": "chatgpt",
+  "force": true,
+  "note": "Retry after TG_API_TOKEN configuration fix"
+}
