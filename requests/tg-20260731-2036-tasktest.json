@@ -1,0 +1,15 @@
+{
+  "request_id": "tg-20260731-2036-tasktest",
+  "type": "telegram_channels",
+  "created_at": "2026-07-31T20:36:00+08:00",
+  "channels": [
+    "tzkknb",
+    "Whitelist520",
+    "LinYuKernels"
+  ],
+  "limit": 50,
+  "response_path": "responses/tg-20260731-2036-tasktest.json",
+  "requested_by": "chatgpt-task-test",
+  "force": true,
+  "note": "Manual verification of new-message-only rule"
+}
