@@ -1,0 +1,288 @@
+{
+    "request_id": "tg-20260731-2030-6b91e4",
+    "type": "telegram_channels_result",
+    "success": false,
+    "source_commit": "b93ea4d170c1e23df6cda88caf2157f81071195d",
+    "completed_at": "2026-07-31T20:31:12+08:00",
+    "requested_limit": 5,
+    "sync": {
+        "success": false,
+        "exit_code": 0,
+        "errors": {
+            "process": "Sync command did not return valid JSON"
+        }
+    },
+    "channels": {
+        "tzkknb": {
+            "success": true,
+            "channel": "tzkknb",
+            "count": 5,
+            "generated_at": "2026-07-31T20:31:12+08:00",
+            "messages": [
+                {
+                    "channel": "tzkknb",
+                    "message_id": 6507,
+                    "posted_at": 1785480153,
+                    "edited_at": 1785480363,
+                    "text": "X5持续稳定中 协议很简单 换个环境 就好了！！",
+                    "type": "text",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": null,
+                    "url": "https://t.me/tzkknb/6507",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T14:42:33+08:00",
+                    "edited_at_iso": "2026-07-31T14:46:03+08:00"
+                },
+                {
+                    "channel": "tzkknb",
+                    "message_id": 6506,
+                    "posted_at": 1785480139,
+                    "edited_at": 1785480143,
+                    "text": "终于兜住了",
+                    "type": "text",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": null,
+                    "url": "https://t.me/tzkknb/6506",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T14:42:19+08:00",
+                    "edited_at_iso": "2026-07-31T14:42:23+08:00"
+                },
+                {
+                    "channel": "tzkknb",
+                    "message_id": 6505,
+                    "posted_at": 1785480139,
+                    "edited_at": 1785480143,
+                    "text": "",
+                    "type": "photo",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": "image/jpeg",
+                    "url": "https://t.me/tzkknb/6505",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T14:42:19+08:00",
+                    "edited_at_iso": "2026-07-31T14:42:23+08:00"
+                },
+                {
+                    "channel": "tzkknb",
+                    "message_id": 6504,
+                    "posted_at": 1785475932,
+                    "edited_at": 1785475936,
+                    "text": "协议还不明白吗 自己环境 备检测了 自己找个环境大牛随便解决！！",
+                    "type": "text",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": null,
+                    "url": "https://t.me/tzkknb/6504",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T13:32:12+08:00",
+                    "edited_at_iso": "2026-07-31T13:32:16+08:00"
+                },
+                {
+                    "channel": "tzkknb",
+                    "message_id": 6503,
+                    "posted_at": 1785475915,
+                    "edited_at": 1785475918,
+                    "text": "",
+                    "type": "photo",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": "image/jpeg",
+                    "url": "https://t.me/tzkknb/6503",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T13:31:55+08:00",
+                    "edited_at_iso": "2026-07-31T13:31:58+08:00"
+                }
+            ],
+            "sync": {
+                "success": false,
+                "error": "Sync command did not return valid JSON"
+            }
+        },
+        "Whitelist520": {
+            "success": true,
+            "channel": "Whitelist520",
+            "count": 5,
+            "generated_at": "2026-07-31T20:31:12+08:00",
+            "messages": [
+                {
+                    "channel": "Whitelist520",
+                    "message_id": 23234,
+                    "posted_at": 1785499413,
+                    "edited_at": 1785499421,
+                    "text": "",
+                    "type": "photo",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": "image/jpeg",
+                    "url": "https://t.me/Whitelist520/23234",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T20:03:33+08:00",
+                    "edited_at_iso": "2026-07-31T20:03:41+08:00"
+                },
+                {
+                    "channel": "Whitelist520",
+                    "message_id": 23233,
+                    "posted_at": 1785499413,
+                    "edited_at": 1785499421,
+                    "text": "",
+                    "type": "photo",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": "image/jpeg",
+                    "url": "https://t.me/Whitelist520/23233",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T20:03:33+08:00",
+                    "edited_at_iso": "2026-07-31T20:03:41+08:00"
+                },
+                {
+                    "channel": "Whitelist520",
+                    "message_id": 23232,
+                    "posted_at": 1785499413,
+                    "edited_at": 1785499421,
+                    "text": "",
+                    "type": "photo",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": "image/jpeg",
+                    "url": "https://t.me/Whitelist520/23232",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T20:03:33+08:00",
+                    "edited_at_iso": "2026-07-31T20:03:41+08:00"
+                },
+                {
+                    "channel": "Whitelist520",
+                    "message_id": 23231,
+                    "posted_at": 1785499413,
+                    "edited_at": 1785499421,
+                    "text": "",
+                    "type": "photo",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": "image/jpeg",
+                    "url": "https://t.me/Whitelist520/23231",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T20:03:33+08:00",
+                    "edited_at_iso": "2026-07-31T20:03:41+08:00"
+                },
+                {
+                    "channel": "Whitelist520",
+                    "message_id": 23230,
+                    "posted_at": 1785499413,
+                    "edited_at": 1785499421,
+                    "text": "",
+                    "type": "photo",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": "image/jpeg",
+                    "url": "https://t.me/Whitelist520/23230",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T20:03:33+08:00",
+                    "edited_at_iso": "2026-07-31T20:03:41+08:00"
+                }
+            ],
+            "sync": {
+                "success": false,
+                "error": "Sync command did not return valid JSON"
+            }
+        },
+        "LinYuKernels": {
+            "success": true,
+            "channel": "LinYuKernels",
+            "count": 5,
+            "generated_at": "2026-07-31T20:31:12+08:00",
+            "messages": [
+                {
+                    "channel": "LinYuKernels",
+                    "message_id": 1621,
+                    "posted_at": 1785481982,
+                    "edited_at": 1785482007,
+                    "text": "5.7驱动即将更新，感谢KSU的开源精神",
+                    "type": "text",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": null,
+                    "url": "https://t.me/LinYuKernels/1621",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T15:13:02+08:00",
+                    "edited_at_iso": "2026-07-31T15:13:27+08:00"
+                },
+                {
+                    "channel": "LinYuKernels",
+                    "message_id": 1608,
+                    "posted_at": 1785353470,
+                    "edited_at": 1785353474,
+                    "text": "LinYuLoaderDriver5.6(驱动)\n\n网盘链接①:https://drive.uc.cn/s/0ac9fc76b9bb4?public=1\n\n网盘链接②:https://pan.quark.cn/s/1dd50323c4af",
+                    "type": "link",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": null,
+                    "url": "https://t.me/LinYuKernels/1608",
+                    "links": [
+                        "https://drive.uc.cn/s/0ac9fc76b9bb4?public=1",
+                        "https://pan.quark.cn/s/1dd50323c4af"
+                    ],
+                    "posted_at_iso": "2026-07-30T03:31:10+08:00",
+                    "edited_at_iso": "2026-07-30T03:31:14+08:00"
+                },
+                {
+                    "channel": "LinYuKernels",
+                    "message_id": 1590,
+                    "posted_at": 1785264524,
+                    "edited_at": 1785264528,
+                    "text": "LinYuKernelSgame.Ver3.9(5V5)\n算法解密，仅限LinYu驱动\n网盘链接①:https://drive.uc.cn/s/0ac9fc76b9bb4?public=1\n\n网盘链接②:https://pan.quark.cn/s/1dd50323c4af",
+                    "type": "link",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": null,
+                    "url": "https://t.me/LinYuKernels/1590",
+                    "links": [
+                        "https://drive.uc.cn/s/0ac9fc76b9bb4?public=1",
+                        "https://pan.quark.cn/s/1dd50323c4af"
+                    ],
+                    "posted_at_iso": "2026-07-29T02:48:44+08:00",
+                    "edited_at_iso": "2026-07-29T02:48:48+08:00"
+                },
+                {
+                    "channel": "LinYuKernels",
+                    "message_id": 1589,
+                    "posted_at": 1785262309,
+                    "edited_at": 1785262379,
+                    "text": "KLBQ的陀螺仪自瞄配置，基本死锁",
+                    "type": "photo",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": "image/jpeg",
+                    "url": "https://t.me/LinYuKernels/1589",
+                    "links": [],
+                    "posted_at_iso": "2026-07-29T02:11:49+08:00",
+                    "edited_at_iso": "2026-07-29T02:12:59+08:00"
+                },
+                {
+                    "channel": "LinYuKernels",
+                    "message_id": 1587,
+                    "posted_at": 1785261978,
+                    "edited_at": 1785261981,
+                    "text": "JiangYanKernelV1.0(Klbq)\n\n网盘链接①:https://drive.uc.cn/s/0ac9fc76b9bb4?public=1\n\n网盘链接②:https://pan.quark.cn/s/1dd50323c4af",
+                    "type": "link",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": null,
+                    "url": "https://t.me/LinYuKernels/1587",
+                    "links": [
+                        "https://drive.uc.cn/s/0ac9fc76b9bb4?public=1",
+                        "https://pan.quark.cn/s/1dd50323c4af"
+                    ],
+                    "posted_at_iso": "2026-07-29T02:06:18+08:00",
+                    "edited_at_iso": "2026-07-29T02:06:21+08:00"
+                }
+            ],
+            "sync": {
+                "success": false,
+                "error": "Sync command did not return valid JSON"
+            }
+        }
+    },
+    "errors": []
+}
