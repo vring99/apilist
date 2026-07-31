@@ -1,0 +1,9 @@
+{
+  "request_id": "tg-20260731-2137-x5-check",
+  "type": "telegram_channels",
+  "channels": ["tzkknb"],
+  "limit": 20,
+  "response_path": "responses/tg-20260731-2137-x5-check.json",
+  "requested_by": "chatgpt-manual-check",
+  "force": true
+}
