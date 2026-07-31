@@ -1,0 +1,105 @@
+{
+    "request_id": "tg-20260731-2033-x5mail",
+    "type": "telegram_channels_result",
+    "success": false,
+    "source_commit": "ed77e434f4a3b2111ced4bf7cc3e2daff87d3657",
+    "completed_at": "2026-07-31T20:34:18+08:00",
+    "requested_limit": 5,
+    "sync": {
+        "success": false,
+        "exit_code": 0,
+        "errors": {
+            "process": "Sync command did not return valid JSON"
+        }
+    },
+    "channels": {
+        "tzkknb": {
+            "success": true,
+            "channel": "tzkknb",
+            "count": 5,
+            "generated_at": "2026-07-31T20:34:18+08:00",
+            "messages": [
+                {
+                    "channel": "tzkknb",
+                    "message_id": 6507,
+                    "posted_at": 1785480153,
+                    "edited_at": 1785480363,
+                    "text": "X5持续稳定中 协议很简单 换个环境 就好了！！",
+                    "type": "text",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": null,
+                    "url": "https://t.me/tzkknb/6507",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T14:42:33+08:00",
+                    "edited_at_iso": "2026-07-31T14:46:03+08:00"
+                },
+                {
+                    "channel": "tzkknb",
+                    "message_id": 6506,
+                    "posted_at": 1785480139,
+                    "edited_at": 1785480143,
+                    "text": "终于兜住了",
+                    "type": "text",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": null,
+                    "url": "https://t.me/tzkknb/6506",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T14:42:19+08:00",
+                    "edited_at_iso": "2026-07-31T14:42:23+08:00"
+                },
+                {
+                    "channel": "tzkknb",
+                    "message_id": 6505,
+                    "posted_at": 1785480139,
+                    "edited_at": 1785480143,
+                    "text": "",
+                    "type": "photo",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": "image/jpeg",
+                    "url": "https://t.me/tzkknb/6505",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T14:42:19+08:00",
+                    "edited_at_iso": "2026-07-31T14:42:23+08:00"
+                },
+                {
+                    "channel": "tzkknb",
+                    "message_id": 6504,
+                    "posted_at": 1785475932,
+                    "edited_at": 1785475936,
+                    "text": "协议还不明白吗 自己环境 备检测了 自己找个环境大牛随便解决！！",
+                    "type": "text",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": null,
+                    "url": "https://t.me/tzkknb/6504",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T13:32:12+08:00",
+                    "edited_at_iso": "2026-07-31T13:32:16+08:00"
+                },
+                {
+                    "channel": "tzkknb",
+                    "message_id": 6503,
+                    "posted_at": 1785475915,
+                    "edited_at": 1785475918,
+                    "text": "",
+                    "type": "photo",
+                    "file_name": null,
+                    "file_size": null,
+                    "mime_type": "image/jpeg",
+                    "url": "https://t.me/tzkknb/6503",
+                    "links": [],
+                    "posted_at_iso": "2026-07-31T13:31:55+08:00",
+                    "edited_at_iso": "2026-07-31T13:31:58+08:00"
+                }
+            ],
+            "sync": {
+                "success": false,
+                "error": "Sync command did not return valid JSON"
+            }
+        }
+    },
+    "errors": []
+}
