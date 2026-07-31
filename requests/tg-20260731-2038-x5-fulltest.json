@@ -1,0 +1,11 @@
+{
+  "request_id": "tg-20260731-2038-x5-fulltest",
+  "type": "telegram_channels",
+  "created_at": "2026-07-31T20:38:00+08:00",
+  "channels": ["tzkknb"],
+  "limit": 20,
+  "response_path": "responses/tg-20260731-2038-x5-fulltest.json",
+  "requested_by": "chatgpt-full-chain-test",
+  "force": true,
+  "note": "Full-chain test: GitHub request -> webhook -> X5 content -> Gmail"
+}
