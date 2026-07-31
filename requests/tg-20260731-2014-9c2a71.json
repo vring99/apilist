@@ -1,0 +1,15 @@
+{
+  "request_id": "tg-20260731-2014-9c2a71",
+  "type": "telegram_channels",
+  "created_at": "2026-07-31T20:14:00+08:00",
+  "channels": [
+    "tzkknb",
+    "Whitelist520",
+    "LinYuKernels"
+  ],
+  "limit": 5,
+  "response_path": "responses/tg-20260731-2014-9c2a71.json",
+  "requested_by": "chatgpt",
+  "force": true,
+  "note": "End-to-end webhook verification after GitHub token permission update"
+}
