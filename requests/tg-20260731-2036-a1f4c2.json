@@ -1,0 +1,9 @@
+{
+  "request_id": "tg-20260731-2036-a1f4c2",
+  "type": "telegram_channels",
+  "channels": ["tzkknb", "Whitelist520", "LinYuKernels"],
+  "limit": 50,
+  "response_path": "responses/tg-20260731-2036-a1f4c2.json",
+  "requested_by": "chatgpt-automation",
+  "force": true
+}
