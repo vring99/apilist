@@ -1,0 +1,9 @@
+{
+  "request_id": "tg-20260801-2139-tzkknb",
+  "type": "telegram_channels",
+  "channels": ["tzkknb"],
+  "limit": 20,
+  "response_path": "responses/tg-20260801-2139-tzkknb.json",
+  "requested_by": "chatgpt-automation",
+  "force": true
+}
