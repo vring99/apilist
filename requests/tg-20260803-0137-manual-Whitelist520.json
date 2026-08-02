@@ -1,0 +1,9 @@
+{
+  "request_id": "tg-20260803-0137-manual-Whitelist520",
+  "type": "telegram_channels",
+  "channels": ["Whitelist520"],
+  "limit": 20,
+  "response_path": "responses/tg-20260803-0137-manual-Whitelist520.json",
+  "requested_by": "chatgpt-manual-monitor",
+  "force": true
+}
