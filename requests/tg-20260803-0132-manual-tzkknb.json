@@ -1,0 +1,9 @@
+{
+  "request_id": "tg-20260803-0132-manual-tzkknb",
+  "type": "telegram_channels",
+  "channels": ["tzkknb"],
+  "limit": 20,
+  "response_path": "responses/tg-20260803-0132-manual-tzkknb.json",
+  "requested_by": "chatgpt-manual-monitor",
+  "force": true
+}
