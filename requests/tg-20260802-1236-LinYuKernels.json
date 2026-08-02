@@ -1,0 +1,9 @@
+{
+  "request_id": "tg-20260802-1236-LinYuKernels",
+  "type": "telegram_channels",
+  "channels": ["LinYuKernels"],
+  "limit": 20,
+  "response_path": "responses/tg-20260802-1236-LinYuKernels.json",
+  "requested_by": "chatgpt-automation",
+  "force": true
+}
